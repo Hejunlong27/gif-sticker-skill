@@ -14,6 +14,57 @@
 
 写实人物、宠物照片、细腻插画默认导出 512 × 512 清晰版；明确要像素风时才走 320 × 320 像素模式。
 
+## 案例展示
+
+自己跑出来的成品，三套 27 张。下面都是真实导出的 GIF，点开看原尺寸。
+
+### 白T少年 · 9 张 · 512 × 512
+
+3D 渲染风角色，白 T + 黑短裤 + 冰咖啡，配像素风点缀。分「日常回应」和「情绪陪伴」两组。
+
+<img src="examples/white-tee-boy/overview.jpg" alt="白T少年九宫格总览" width="560">
+
+| | | |
+| --- | --- | --- |
+| <a href="examples/white-tee-boy/01-daily/001.gif"><img src="examples/white-tee-boy/01-daily/001.gif" alt="001 早上好" width="150" height="150"></a><br>001 早上好 | <a href="examples/white-tee-boy/01-daily/002.gif"><img src="examples/white-tee-boy/01-daily/002.gif" alt="002 谢谢" width="150" height="150"></a><br>002 谢谢 | <a href="examples/white-tee-boy/01-daily/003.gif"><img src="examples/white-tee-boy/01-daily/003.gif" alt="003 哈哈哈哈" width="150" height="150"></a><br>003 哈哈哈哈 |
+| <a href="examples/white-tee-boy/01-daily/004.gif"><img src="examples/white-tee-boy/01-daily/004.gif" alt="004 无语" width="150" height="150"></a><br>004 无语 | <a href="examples/white-tee-boy/01-daily/005.gif"><img src="examples/white-tee-boy/01-daily/005.gif" alt="005 收到" width="150" height="150"></a><br>005 收到 | <a href="examples/white-tee-boy/01-daily/006.gif"><img src="examples/white-tee-boy/01-daily/006.gif" alt="006 加油" width="150" height="150"></a><br>006 加油 |
+| <a href="examples/white-tee-boy/02-companion/007.gif"><img src="examples/white-tee-boy/02-companion/007.gif" alt="007 晚安" width="150" height="150"></a><br>007 晚安 | <a href="examples/white-tee-boy/02-companion/008.gif"><img src="examples/white-tee-boy/02-companion/008.gif" alt="008 比心" width="150" height="150"></a><br>008 比心 | <a href="examples/white-tee-boy/02-companion/009.gif"><img src="examples/white-tee-boy/02-companion/009.gif" alt="009 在吗？" width="150" height="150"></a><br>009 在吗？ |
+
+### 慵懒少年 · 9 张 · 512 × 512
+
+同一角色的第二套，台词更口语、更带情绪，动作幅度也更大。分「日常反应」和「情绪起伏」两组。
+
+<img src="examples/lazy-boy/overview.jpg" alt="慵懒少年九宫格总览" width="560">
+
+| | | |
+| --- | --- | --- |
+| <a href="examples/lazy-boy/01-daily/001.gif"><img src="examples/lazy-boy/01-daily/001.gif" alt="001 无所谓啦～" width="150" height="150"></a><br>001 无所谓啦～ | <a href="examples/lazy-boy/01-daily/002.gif"><img src="examples/lazy-boy/01-daily/002.gif" alt="002 真的假的？！" width="150" height="150"></a><br>002 真的假的？！ | <a href="examples/lazy-boy/01-daily/003.gif"><img src="examples/lazy-boy/01-daily/003.gif" alt="003 让我再睡五分钟……" width="150" height="150"></a><br>003 让我再睡五分钟…… |
+| <a href="examples/lazy-boy/01-daily/004.gif"><img src="examples/lazy-boy/01-daily/004.gif" alt="004 喝一口，活过来。" width="150" height="150"></a><br>004 喝一口，活过来。 | <a href="examples/lazy-boy/01-daily/005.gif"><img src="examples/lazy-boy/01-daily/005.gif" alt="005 才、才没有呢！" width="150" height="150"></a><br>005 才、才没有呢！ | <a href="examples/lazy-boy/01-daily/006.gif"><img src="examples/lazy-boy/01-daily/006.gif" alt="006 懂的都懂" width="150" height="150"></a><br>006 懂的都懂 |
+| <a href="examples/lazy-boy/02-emotion/007.gif"><img src="examples/lazy-boy/02-emotion/007.gif" alt="007 哼！不理你了！" width="150" height="150"></a><br>007 哼！不理你了！ | <a href="examples/lazy-boy/02-emotion/008.gif"><img src="examples/lazy-boy/02-emotion/008.gif" alt="008 我真的会谢……" width="150" height="150"></a><br>008 我真的会谢…… | <a href="examples/lazy-boy/02-emotion/009.gif"><img src="examples/lazy-boy/02-emotion/009.gif" alt="009 今天也要开心！" width="150" height="150"></a><br>009 今天也要开心！ |
+
+### 慵懒少年 · 关键帧版 · 9 张 · 512 × 512
+
+同一批台词，换成**关键帧流程**重做：每张由 6 个生成姿势串联而成，手臂和手是真的在动，不是整张图做形变。单张约 1.1–1.3 秒。
+
+对比着看就能看出两种做法的差别：上面那套是位移+挤压+摇摆，这套是关节动作。
+
+| | | |
+| --- | --- | --- |
+| <a href="examples/lazy-boy-keyframes/01-daily/001.gif"><img src="examples/lazy-boy-keyframes/01-daily/001.gif" alt="001 无所谓啦～" width="150" height="150"></a><br>001 无所谓啦～ | <a href="examples/lazy-boy-keyframes/01-daily/002.gif"><img src="examples/lazy-boy-keyframes/01-daily/002.gif" alt="002 真的假的？！" width="150" height="150"></a><br>002 真的假的？！ | <a href="examples/lazy-boy-keyframes/01-daily/003.gif"><img src="examples/lazy-boy-keyframes/01-daily/003.gif" alt="003 让我再睡五分钟……" width="150" height="150"></a><br>003 让我再睡五分钟…… |
+| <a href="examples/lazy-boy-keyframes/01-daily/004.gif"><img src="examples/lazy-boy-keyframes/01-daily/004.gif" alt="004 喝一口，活过来。" width="150" height="150"></a><br>004 喝一口，活过来。 | <a href="examples/lazy-boy-keyframes/01-daily/005.gif"><img src="examples/lazy-boy-keyframes/01-daily/005.gif" alt="005 才、才没有呢！" width="150" height="150"></a><br>005 才、才没有呢！ | <a href="examples/lazy-boy-keyframes/01-daily/006.gif"><img src="examples/lazy-boy-keyframes/01-daily/006.gif" alt="006 懂的都懂" width="150" height="150"></a><br>006 懂的都懂 |
+| <a href="examples/lazy-boy-keyframes/02-emotion/007.gif"><img src="examples/lazy-boy-keyframes/02-emotion/007.gif" alt="007 哼！不理你了！" width="150" height="150"></a><br>007 哼！不理你了！ | <a href="examples/lazy-boy-keyframes/02-emotion/008.gif"><img src="examples/lazy-boy-keyframes/02-emotion/008.gif" alt="008 我真的会谢……" width="150" height="150"></a><br>008 我真的会谢…… | <a href="examples/lazy-boy-keyframes/02-emotion/009.gif"><img src="examples/lazy-boy-keyframes/02-emotion/009.gif" alt="009 今天也要开心！" width="150" height="150"></a><br>009 今天也要开心！ |
+
+---
+
+**这三套验证了四件事：**
+
+1. **hd 默认值够用** —— 256 缩略图里发丝、衣服褶皱、冰咖啡的杯壁都还清楚，说明源分辨率没被浪费。
+2. **透明背景是对的** —— 三个套包都是真 alpha 全零，不是白色底图假装透明。
+3. **同角色能出第二套** —— 白T少年和慵懒少年共用同一个角色设定，台词和动作完全换新，没有语义重复。
+4. **两种动效路线都通** —— 位移形变适合快速出量，关键帧适合"必须真的抬手"的动作。
+
+> 展示图为 256 × 256 压缩版（保留透明通道），仓库里的成品是 512 × 512。角色为 AI 生成，台词为趣味二创。
+
 ## 怎么用
 
 在能生成图片、能跑脚本的环境里调用本技能。
@@ -74,6 +125,10 @@ references/
 scripts/
   export_pack.py       单姿势图集导出（默认 hd 512）
   export_keyframes.py  多关键姿势合成导出
+examples/
+  white-tee-boy/       白T少年 9 张（256 压缩版，保留透明）
+  lazy-boy/            慵懒少年 9 张（位移形变版）
+  lazy-boy-keyframes/  慵懒少年 9 张（关键帧版）
 ```
 
 ## 许可
