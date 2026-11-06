@@ -1,5 +1,5 @@
 ---
-name: chat-sticker-gif-studio
+name: gif-sticker-skill
 description: 把一张已获授权的角色插画、吉祥物或 3D 渲染图，做成一套逐张独立动效的聊天表情 GIF，含可播放预览与校验过的 ZIP。适用于单套表情，也适用于需要大量不同表情与动作的主题系列。
 ---
 
