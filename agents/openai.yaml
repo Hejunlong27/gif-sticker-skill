@@ -1,0 +1,4 @@
+interface:
+  display_name: "表情包工作台"
+  short_description: "做一套会动的聊天表情 GIF，带预览与校验打包"
+  default_prompt: "使用 $chat-sticker-gif-studio，根据参考角色做一组透明循环 GIF 表情包。"
